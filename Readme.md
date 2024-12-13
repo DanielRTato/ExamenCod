@@ -27,6 +27,8 @@ String[][] tablero = {
 
 Ejemplos de funciones:
 
-public stativ void recorrerTablero (String[]tablero)
-public static int contarFichas(String[]tablero, int fichasB, int fichasN)
-public static void determinarGanador (int totalB, int totalN)
+public stativ void recorrerTablero (String[]tablero) 
+
+public static int contarFichas(String[]tablero, int fichasB, int fichasN) /n
+
+public static void determinarGanador (int totalB, int totalN) 
