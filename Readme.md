@@ -30,14 +30,19 @@ String[][] tablero = {
 {"",  "",  "",  "", "", "B", "", ""},  
 {"",  "",  "N", "", "", "", "", ""},  
 {"",  "",  "",  "N", "", "", "N", ""},  
-{"",  "N",  "",  "", "", "", "", "B"}   
-}
+{"",  "N",  "",  "", "", "", "", "B"}
+};
 ```
 ---
 
 ### Ejemplos de funciones:
+En general este programa solo hace 3 cosas:
+1.  Recorrrer el tablero
+2.  Contar las fichas de cada jugador
+3.  Comparar las fichas totales y determinar el ganador
 
 #### Función para recorrer el tablero:
+
 ```java
 public static void recorrerTablero(String[][] tablero) {
 }
