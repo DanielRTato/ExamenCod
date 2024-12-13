@@ -11,3 +11,15 @@ Clonar el repositorio
 Diagrama de flujo
 
 ![Damas.drawio.png](imagenes/Damas.drawio.png)
+
+¿Cómo sería el tablero?
+String[][] tablero = {
+{"B", "N", "",  "", "", "", "", ""},  
+{"",  "B",  "",  "", "", "", "", ""},  
+{"",  "",  "",  "B", "N", "", "", ""},  
+{"",  "",  "",  "", "", "", "", ""},  
+{"",  "",  "",  "", "", "B", "", ""},  
+{"",  "",  "N", "", "", "", "", ""},  
+{"",  "",  "",  "N", "", "", "N", ""},  
+{"",  "N",  "",  "", "", "", "", "B"}   
+}
