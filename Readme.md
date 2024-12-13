@@ -8,6 +8,11 @@ Con cada apartado realiza un commit diferente
 
 ---
 
+### Autor
+Daniel Rodriguez Tato
+
+---
+
 ### Clonar el repositorio
 ![clonar.png](imagenes/clonar.png)
 
